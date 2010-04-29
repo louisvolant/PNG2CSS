@@ -1,0 +1,12 @@
+PNG2CSS
+=======
+
+PNG2CSS is a tool written with python (and the PyPNG Library) to convert PNG files to HTML+CSS files.
+
+Beware, the script doesn't take every kind of PNGs. Save PNGs with MS Paint to be sure the script will correctly take it (there is indeed a issue with PNG and transparency/alpha, that I prensently haven't managed to solve).
+
+The script has only been tested using Python 2.6.
+
+PNG2CSS is licensed under the Apache
+Licence, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
